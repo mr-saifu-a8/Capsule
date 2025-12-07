@@ -6,10 +6,10 @@ export default function Page3() {
       <div className="top">
         <div className="left">
           <div className="imgBox">
-            <img src="/public/images/sm image1.png" alt="sm1" />
+            <img src="/images/sm image1.png" alt="sm1" />
           </div>
           <div className="imgBox">
-            <img src="/public/images/sm image 2.png" alt="sm2" />
+            <img src="/images/sm image 2.png" alt="sm2" />
           </div>
         </div>
         <div className="right">

@@ -15,7 +15,7 @@ export default function Page4() {
       </div>
 
       <div className="background">
-        <img src="/public/images/background2.png" alt="bg2" />
+        <img src="/images/background2.png" alt="bg2" />
         <div className="topText">
           <h4>ClassicCapsule®</h4>
           <h3>(Scroll)</h3>
@@ -29,7 +29,7 @@ export default function Page4() {
       </div>
 
       <div id="second" className="background2">
-        <img src="/public/images/background3.png" alt="bg3" />
+        <img src="/images/background3.png" alt="bg3" />
         <div className="topText">
           <h4>Terrace Capsule®</h4>
           <h3>(Scroll)</h3>
@@ -43,7 +43,7 @@ export default function Page4() {
       </div>
 
       <div id="third" className="background2">
-        <img src="/public/images/background4.png" alt="bg4" />
+        <img src="/images/background4.png" alt="bg4" />
         <div className="topText">
           <h4>Desert Capsule®</h4>
           <h3>(Scroll)</h3>
