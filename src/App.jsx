@@ -139,7 +139,7 @@ export default function App() {
 
           <div className="capsul">
             <div className="background">
-              <img id="bgImage" src="/src/images/background1.png" alt="bg1" />
+              <img id="bgImage" src="/public/images/background1.png" alt="bg1" />
               <div className="top">
                 <h1 className="font-bold">Capsules</h1>
                 <button className="menuBtn">
